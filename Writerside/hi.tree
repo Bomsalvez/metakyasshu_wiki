@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="Default-topic.md">
+
+    <toc-element topic="Default-topic.md">
+        <toc-element topic="DER.md"/>
+        <toc-element topic="API-Documentation.md">
+            <toc-element topic="Participation.md"/>
+            <toc-element topic="Guest.md"/>
+            <toc-element topic="Ballance.md"/>
+            <toc-element topic="Meta.md"/>
+            <toc-element topic="Paiment.md"/>
+            <toc-element topic="Expense.md"/>
+            <toc-element topic="Categoria.md"/>
+            <toc-element topic="Card.md"/>
+            <toc-element topic="StartSection.md"/>
+            <toc-element topic="User.md"/>
+        </toc-element>
+        <toc-element topic="Readme.md"/>
+    </toc-element>
+</instance-profile>
